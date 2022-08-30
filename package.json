@@ -24,13 +24,14 @@
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
     "csv": "^6.2.0",
+    "csvdata": "^2.0.0",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
     "http-errors": "^2.0.0",
     "mongoose": "^6.5.3",
     "morgan": "^1.10.0",
-    "node-fetch": "^3.2.10"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "eslint": "^8.23.0",
